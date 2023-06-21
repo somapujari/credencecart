@@ -1,0 +1,31 @@
+********** enter a username***** 2023-06-21 19:53:14,734
+*********entering a email  ***** 2023-06-21 19:53:14,853
+************* entering  a password ***** 2023-06-21 19:53:14,998
+entering a password 2023-06-21 19:53:15,124
+*********clicking the register lin *******  2023-06-21 19:53:15,247
+*****verifing the registeration ***  2023-06-21 19:53:16,626
+test_registeration is compleated **** 2023-06-21 19:53:16,634
+***** test_login *******   2023-06-21 20:04:10,155
+*****  opening url ****  2023-06-21 20:04:10,156
+****** entering email ****  2023-06-21 20:04:12,167
+************ entering password ***  2023-06-21 20:04:12,361
+***** test_login is compleated ****  2023-06-21 20:04:13,505
+**** test_addtocart ***********************  2023-06-21 21:28:50,754
+**** test_addtocart ***********************  2023-06-21 21:31:31,474
+******** entering email ******  2023-06-21 21:31:34,650
+******** entering password ******  2023-06-21 21:31:34,839
+******** clicking logon button  ******  2023-06-21 21:31:34,983
+******** verifying login  ******  2023-06-21 21:31:35,929
+************* test_login  is compleated  2023-06-21 21:31:35,954
+ ************** opening add to cart page ****   2023-06-21 21:31:35,954
+******** clicking on product ******  2023-06-21 21:31:35,954
+******** verifying the  add to cart  ******  2023-06-21 21:31:36,810
+************* billing page opening  **** * 2023-06-21 21:31:36,926
+***** entering a name ********  2023-06-21 21:31:37,606
+***** entering a lastname ********  2023-06-21 21:31:38,034
+****** entering  aphone number *****  2023-06-21 21:31:38,207
+**********  selecting city  ************  2023-06-21 21:31:38,648
+**************** entering cvv **** ***  2023-06-21 21:31:39,093
+******** entering card number  2023-06-21 21:31:39,252
+******** verifying the order  2023-06-21 21:31:40,692
+******* test  i compleated ***** 2023-06-21 21:31:40,760
